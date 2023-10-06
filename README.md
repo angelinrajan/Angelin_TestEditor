@@ -2,6 +2,9 @@
 
 This project aims to develop a text editor web application that allows users to create notes or code snippets with or without an internet connection. The application should provide a reliable way to retrieve and access these notes or snippets for later use.
 
+## Link to Deployed Application in heroku
+https://rocky-oasis-72913-bc041b4b7f95.herokuapp.com/
+
 
 ## Functionality
 
